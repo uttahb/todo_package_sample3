@@ -1,0 +1,8 @@
+{
+  "name": "todo_package_sample3",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/uttahb/todo_package_sample3",
+    "ssh": "git@github.com:uttahb/todo_package_sample3.git"
+  }
+}
